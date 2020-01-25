@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>DevOps-WebApp</title>
 </head>
 <body>
-Hello World!!!!!
+	<h1>Welcome to DevOps<\h1>
 </body>
 </html>
