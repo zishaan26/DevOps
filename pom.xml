@@ -18,9 +18,10 @@
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
         <version>3.2.1</version>
-        <configuration>
+	<configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
-        </configuration>
+	  <warName>webApp.war</warName>
+  	</configuration>
       </plugin>
     </plugins>
   </build>
